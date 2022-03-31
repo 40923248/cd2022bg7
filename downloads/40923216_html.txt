@@ -4,6 +4,7 @@
 <p><a href="https://40923216.github.io/cd2022/content/Video%203%20Draw%20triangles.html">https://40923216.github.io/cd2022/content/Video%203%20Draw%20triangles.html</a></p>
 <p>04：<strong>TECH 4472 Homework 02A - Step Block</strong></p>
 <p><a href="https://40923216.github.io/cd2022/content/Video%204%20Draw%20a%20stereogram.html">https://40923216.github.io/cd2022/content/Video%204%20Draw%20a%20stereogram.html</a></p>
+<p></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
